@@ -1,0 +1,17 @@
+C:\Users\Eduardo\Music\AdventumCaez-Api\AdventumCaez-API-BL\bin\Debug\net8.0\AdventumCaez-API-BL.deps.json
+C:\Users\Eduardo\Music\AdventumCaez-Api\AdventumCaez-API-BL\bin\Debug\net8.0\AdventumCaez-API-BL.dll
+C:\Users\Eduardo\Music\AdventumCaez-Api\AdventumCaez-API-BL\bin\Debug\net8.0\AdventumCaez-API-BL.pdb
+C:\Users\Eduardo\Music\AdventumCaez-Api\AdventumCaez-API-BL\bin\Debug\net8.0\AdventumCaez-API-DAL.dll
+C:\Users\Eduardo\Music\AdventumCaez-Api\AdventumCaez-API-BL\bin\Debug\net8.0\AdventumCaez-API-EN.dll
+C:\Users\Eduardo\Music\AdventumCaez-Api\AdventumCaez-API-BL\bin\Debug\net8.0\AdventumCaez-API-DAL.pdb
+C:\Users\Eduardo\Music\AdventumCaez-Api\AdventumCaez-API-BL\bin\Debug\net8.0\AdventumCaez-API-EN.pdb
+C:\Users\Eduardo\Music\AdventumCaez-Api\AdventumCaez-API-BL\obj\Debug\net8.0\AdventumCaez-API-BL.csproj.AssemblyReference.cache
+C:\Users\Eduardo\Music\AdventumCaez-Api\AdventumCaez-API-BL\obj\Debug\net8.0\AdventumCaez-API-BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eduardo\Music\AdventumCaez-Api\AdventumCaez-API-BL\obj\Debug\net8.0\AdventumCaez-API-BL.AssemblyInfoInputs.cache
+C:\Users\Eduardo\Music\AdventumCaez-Api\AdventumCaez-API-BL\obj\Debug\net8.0\AdventumCaez-API-BL.AssemblyInfo.cs
+C:\Users\Eduardo\Music\AdventumCaez-Api\AdventumCaez-API-BL\obj\Debug\net8.0\AdventumCaez-API-BL.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\Music\AdventumCaez-Api\AdventumCaez-API-BL\obj\Debug\net8.0\Adventum.50A131C8.Up2Date
+C:\Users\Eduardo\Music\AdventumCaez-Api\AdventumCaez-API-BL\obj\Debug\net8.0\AdventumCaez-API-BL.dll
+C:\Users\Eduardo\Music\AdventumCaez-Api\AdventumCaez-API-BL\obj\Debug\net8.0\refint\AdventumCaez-API-BL.dll
+C:\Users\Eduardo\Music\AdventumCaez-Api\AdventumCaez-API-BL\obj\Debug\net8.0\AdventumCaez-API-BL.pdb
+C:\Users\Eduardo\Music\AdventumCaez-Api\AdventumCaez-API-BL\obj\Debug\net8.0\ref\AdventumCaez-API-BL.dll

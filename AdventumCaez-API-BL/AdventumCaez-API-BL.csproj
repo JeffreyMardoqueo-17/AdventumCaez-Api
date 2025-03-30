@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <RootNamespace>AdventumCaez_API_BL</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\AdventumCaez-API-DAL\AdventumCaez-API-DAL.csproj" />
+    <ProjectReference Include="..\AdventumCaez-API-EN\AdventumCaez-API-EN.csproj" />
+  </ItemGroup>
+
+</Project>

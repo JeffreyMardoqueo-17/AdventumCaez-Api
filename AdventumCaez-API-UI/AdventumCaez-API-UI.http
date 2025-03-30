@@ -1,0 +1,6 @@
+@AdventumCaez_API_UI_HostAddress = http://localhost:5235
+
+GET {{AdventumCaez_API_UI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

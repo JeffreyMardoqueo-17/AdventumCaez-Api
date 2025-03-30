@@ -1,0 +1,15 @@
+C:\Users\Eduardo\Music\AdventumCaez-Api\AdventumCaez-API-DAL\bin\Debug\net8.0\AdventumCaez-API-DAL.deps.json
+C:\Users\Eduardo\Music\AdventumCaez-Api\AdventumCaez-API-DAL\bin\Debug\net8.0\AdventumCaez-API-DAL.dll
+C:\Users\Eduardo\Music\AdventumCaez-Api\AdventumCaez-API-DAL\bin\Debug\net8.0\AdventumCaez-API-DAL.pdb
+C:\Users\Eduardo\Music\AdventumCaez-Api\AdventumCaez-API-DAL\bin\Debug\net8.0\AdventumCaez-API-EN.dll
+C:\Users\Eduardo\Music\AdventumCaez-Api\AdventumCaez-API-DAL\bin\Debug\net8.0\AdventumCaez-API-EN.pdb
+C:\Users\Eduardo\Music\AdventumCaez-Api\AdventumCaez-API-DAL\obj\Debug\net8.0\AdventumCaez-API-DAL.csproj.AssemblyReference.cache
+C:\Users\Eduardo\Music\AdventumCaez-Api\AdventumCaez-API-DAL\obj\Debug\net8.0\AdventumCaez-API-DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eduardo\Music\AdventumCaez-Api\AdventumCaez-API-DAL\obj\Debug\net8.0\AdventumCaez-API-DAL.AssemblyInfoInputs.cache
+C:\Users\Eduardo\Music\AdventumCaez-Api\AdventumCaez-API-DAL\obj\Debug\net8.0\AdventumCaez-API-DAL.AssemblyInfo.cs
+C:\Users\Eduardo\Music\AdventumCaez-Api\AdventumCaez-API-DAL\obj\Debug\net8.0\AdventumCaez-API-DAL.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\Music\AdventumCaez-Api\AdventumCaez-API-DAL\obj\Debug\net8.0\Adventum.62D33820.Up2Date
+C:\Users\Eduardo\Music\AdventumCaez-Api\AdventumCaez-API-DAL\obj\Debug\net8.0\AdventumCaez-API-DAL.dll
+C:\Users\Eduardo\Music\AdventumCaez-Api\AdventumCaez-API-DAL\obj\Debug\net8.0\refint\AdventumCaez-API-DAL.dll
+C:\Users\Eduardo\Music\AdventumCaez-Api\AdventumCaez-API-DAL\obj\Debug\net8.0\AdventumCaez-API-DAL.pdb
+C:\Users\Eduardo\Music\AdventumCaez-Api\AdventumCaez-API-DAL\obj\Debug\net8.0\ref\AdventumCaez-API-DAL.dll

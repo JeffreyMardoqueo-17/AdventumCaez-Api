@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\AdventumCaez-API-UI.props" />
+</Project>

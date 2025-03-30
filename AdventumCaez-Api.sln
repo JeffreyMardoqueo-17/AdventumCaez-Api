@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdventumCaez-API-EN", "AdventumCaez-API-EN\AdventumCaez-API-EN.csproj", "{6F749A1B-4A32-491F-825D-A0DAD533FA61}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdventumCaez-API-DAL", "AdventumCaez-API-DAL\AdventumCaez-API-DAL.csproj", "{6459E02B-31D6-47AB-8784-C8EAFA411C42}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdventumCaez-API-BL", "AdventumCaez-API-BL\AdventumCaez-API-BL.csproj", "{E047F269-F9F7-4F27-AAB7-2ADDE92C1C23}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdventumCaez-API-UI", "AdventumCaez-API-UI\AdventumCaez-API-UI.csproj", "{EDAD52B1-A838-466D-B338-BA881C440A1B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F749A1B-4A32-491F-825D-A0DAD533FA61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F749A1B-4A32-491F-825D-A0DAD533FA61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F749A1B-4A32-491F-825D-A0DAD533FA61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F749A1B-4A32-491F-825D-A0DAD533FA61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6459E02B-31D6-47AB-8784-C8EAFA411C42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6459E02B-31D6-47AB-8784-C8EAFA411C42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6459E02B-31D6-47AB-8784-C8EAFA411C42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6459E02B-31D6-47AB-8784-C8EAFA411C42}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E047F269-F9F7-4F27-AAB7-2ADDE92C1C23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E047F269-F9F7-4F27-AAB7-2ADDE92C1C23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E047F269-F9F7-4F27-AAB7-2ADDE92C1C23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E047F269-F9F7-4F27-AAB7-2ADDE92C1C23}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDAD52B1-A838-466D-B338-BA881C440A1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDAD52B1-A838-466D-B338-BA881C440A1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDAD52B1-A838-466D-B338-BA881C440A1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDAD52B1-A838-466D-B338-BA881C440A1B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4D687D87-0F60-4C45-BEC8-EA00530A6800}
+	EndGlobalSection
+EndGlobal
