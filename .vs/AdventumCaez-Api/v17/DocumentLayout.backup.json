@@ -39,12 +39,12 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "AdventumCaez-API-UI",
+              "Title": "AdventumCaez-API-UI.csproj",
               "DocumentMoniker": "C:\\Users\\Eduardo\\Music\\AdventumCaez-Api\\AdventumCaez-API-UI\\AdventumCaez-API-UI.csproj",
               "RelativeDocumentMoniker": "AdventumCaez-API-UI\\AdventumCaez-API-UI.csproj",
               "ToolTip": "C:\\Users\\Eduardo\\Music\\AdventumCaez-Api\\AdventumCaez-API-UI\\AdventumCaez-API-UI.csproj",
               "RelativeToolTip": "AdventumCaez-API-UI\\AdventumCaez-API-UI.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-03-30T13:37:13.022Z",
               "EditorCaption": ""
@@ -52,7 +52,7 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "AdventumCaez-API-BL",
+              "Title": "AdventumCaez-API-BL.csproj",
               "DocumentMoniker": "C:\\Users\\Eduardo\\Music\\AdventumCaez-Api\\AdventumCaez-API-BL\\AdventumCaez-API-BL.csproj",
               "RelativeDocumentMoniker": "AdventumCaez-API-BL\\AdventumCaez-API-BL.csproj",
               "ToolTip": "C:\\Users\\Eduardo\\Music\\AdventumCaez-Api\\AdventumCaez-API-BL\\AdventumCaez-API-BL.csproj",
@@ -65,7 +65,7 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "AdventumCaez-API-DAL",
+              "Title": "AdventumCaez-API-DAL.csproj",
               "DocumentMoniker": "C:\\Users\\Eduardo\\Music\\AdventumCaez-Api\\AdventumCaez-API-DAL\\AdventumCaez-API-DAL.csproj",
               "RelativeDocumentMoniker": "AdventumCaez-API-DAL\\AdventumCaez-API-DAL.csproj",
               "ToolTip": "C:\\Users\\Eduardo\\Music\\AdventumCaez-Api\\AdventumCaez-API-DAL\\AdventumCaez-API-DAL.csproj",
@@ -85,8 +85,7 @@
               "RelativeToolTip": "AdventumCaez-API-BL\\Class1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-30T12:45:52.815Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-30T12:45:52.815Z"
             },
             {
               "$type": "Document",
