@@ -34,5 +34,48 @@ namespace AdventumCaez_API_DAL.repositories
 
             return result.FirstOrDefault();
         }
+
+        //metdo con full EF
+        public async Task<PaymentType> CreatePaymentTypeAsync(PaymentType paymentType)
+        {
+            if (paymentType == null)
+                throw new ArgumentNullException(nameof(paymentType));
+
+            // await _appDBContext.PaymentTypes.AddAsync(paymentType);
+            await _appDBContext.PaymentTypes.AddAsync(paymentType);
+            await _appDBContext.SaveChangesAsync();
+            return paymentType;
+        }
+
+        public async Task<PaymentType?> UpdatePaymentTypeAsync(PaymentType paymentType)
+        {
+            if (paymentType == null)
+                throw new ArgumentNullException(nameof(paymentType));
+
+            var existingPaymentType = await _appDBContext.PaymentTypes.FindAsync(paymentType.Id);
+
+            if (existingPaymentType == null)
+                return null;
+
+            existingPaymentType.Name = paymentType.Name;
+
+            _appDBContext.PaymentTypes.Update(existingPaymentType);
+            await _appDBContext.SaveChangesAsync();
+
+            return existingPaymentType;
+        }
+
+        public async Task<bool> DeletePaymentTypeAsync(int id)
+        {
+            var paymentType = await _appDBContext.PaymentTypes.FindAsync(id);
+
+            if (paymentType == null)
+                return false;
+
+            _appDBContext.PaymentTypes.Remove(paymentType);
+            await _appDBContext.SaveChangesAsync();
+            return true;
+        }
+
     }
 }

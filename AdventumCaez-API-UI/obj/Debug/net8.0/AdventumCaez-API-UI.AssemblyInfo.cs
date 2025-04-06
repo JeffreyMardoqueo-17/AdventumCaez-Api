@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AdventumCaez-API-UI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3b7f428b1905e214e8c7ddc159bcc6df95e0179d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eeeb7877f980ecbdad202c5597af429ec24d2495")]
 [assembly: System.Reflection.AssemblyProductAttribute("AdventumCaez-API-UI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AdventumCaez-API-UI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
