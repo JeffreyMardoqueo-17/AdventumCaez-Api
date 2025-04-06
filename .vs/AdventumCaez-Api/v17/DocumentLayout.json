@@ -15,16 +15,12 @@
       "RelativeMoniker": "D:0:0:{E047F269-F9F7-4F27-AAB7-2ADDE92C1C23}|AdventumCaez-API-BL\\AdventumCaez-API-BL.csproj|solutionrelative:adventumcaez-api-bl\\adventumcaez-api-bl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E047F269-F9F7-4F27-AAB7-2ADDE92C1C23}|AdventumCaez-API-BL\\AdventumCaez-API-BL.csproj|c:\\users\\eduardo\\music\\adventumcaez-api\\adventumcaez-api-bl\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E047F269-F9F7-4F27-AAB7-2ADDE92C1C23}|AdventumCaez-API-BL\\AdventumCaez-API-BL.csproj|solutionrelative:adventumcaez-api-bl\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6459E02B-31D6-47AB-8784-C8EAFA411C42}|AdventumCaez-API-DAL\\AdventumCaez-API-DAL.csproj|c:\\users\\eduardo\\music\\adventumcaez-api\\adventumcaez-api-dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6459E02B-31D6-47AB-8784-C8EAFA411C42}|AdventumCaez-API-DAL\\AdventumCaez-API-DAL.csproj|solutionrelative:adventumcaez-api-dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Eduardo\\Music\\AdventumCaez-Api\\AdventumCaez-API-EN\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AdventumCaez-API-EN\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Eduardo\\Music\\AdventumCaez-Api\\AdventumCaez-API-DAL\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AdventumCaez-API-DAL\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -77,18 +73,6 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\Eduardo\\Music\\AdventumCaez-Api\\AdventumCaez-API-BL\\Class1.cs",
-              "RelativeDocumentMoniker": "AdventumCaez-API-BL\\Class1.cs",
-              "ToolTip": "C:\\Users\\Eduardo\\Music\\AdventumCaez-Api\\AdventumCaez-API-BL\\Class1.cs",
-              "RelativeToolTip": "AdventumCaez-API-BL\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-30T12:45:52.815Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\Eduardo\\Music\\AdventumCaez-Api\\AdventumCaez-API-DAL\\Class1.cs",
@@ -101,7 +85,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\Eduardo\\Music\\AdventumCaez-Api\\AdventumCaez-API-EN\\Class1.cs",
               "RelativeDocumentMoniker": "AdventumCaez-API-EN\\Class1.cs",

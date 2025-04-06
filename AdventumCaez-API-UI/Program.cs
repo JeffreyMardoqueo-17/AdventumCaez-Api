@@ -1,7 +1,7 @@
 // En la capa UI (Web API)
 using DotNetEnv; // Para cargar el archivo .env
-using AdventumCaez_API_DAL; // Referencia a la DAL
-using AdventumCaez_API_BL; // Referencia a la BL
+using AdventumCaez_API_DAL; // 
+using AdventumCaez_API_BL; // 
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);

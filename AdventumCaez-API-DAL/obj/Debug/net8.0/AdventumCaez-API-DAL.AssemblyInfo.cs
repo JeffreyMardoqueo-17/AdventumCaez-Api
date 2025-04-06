@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AdventumCaez-API-DAL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fe3f6611a5b709c9f532b3613d8225e654628555")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3b7f428b1905e214e8c7ddc159bcc6df95e0179d")]
 [assembly: System.Reflection.AssemblyProductAttribute("AdventumCaez-API-DAL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AdventumCaez-API-DAL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
