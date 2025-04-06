@@ -10,7 +10,7 @@ Env.Load();
 var connectionString = Environment.GetEnvironmentVariable("ConnectionStrings__DefaultConnection");
 
 // Usar la capa BL para inyectar todo
-builder.Services.AddBusinessLayer(connectionString);
+builder.Services.AddBusinessLayer(connectionString);  // Esta línea llama al método de DependencyInjection
 
 // Servicios generales de ASP.NET Core
 builder.Services.AddControllers();

@@ -11,7 +11,7 @@ CREATE TABLE TipoPago (
     Nombre VARCHAR(50) NOT NULL
 );
 GO
-
+---creada
 -- Tipo de documento (NIE, DUI, pasaporte, etc.)
 CREATE TABLE TipoDocumento (
     Id INT PRIMARY KEY IDENTITY(1,1),
