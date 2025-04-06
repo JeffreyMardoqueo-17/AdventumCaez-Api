@@ -13,3 +13,6 @@ C:\Users\Eduardo\Music\AdventumCaez-Api\AdventumCaez-API-DAL\obj\Debug\net8.0\Ad
 C:\Users\Eduardo\Music\AdventumCaez-Api\AdventumCaez-API-DAL\obj\Debug\net8.0\refint\AdventumCaez-API-DAL.dll
 C:\Users\Eduardo\Music\AdventumCaez-Api\AdventumCaez-API-DAL\obj\Debug\net8.0\AdventumCaez-API-DAL.pdb
 C:\Users\Eduardo\Music\AdventumCaez-Api\AdventumCaez-API-DAL\obj\Debug\net8.0\ref\AdventumCaez-API-DAL.dll
+C:\Users\Eduardo\Music\AdventumCaez-Api\AdventumCaez-API-DAL\bin\Debug\net8.0\AdventumCaez-API-DAL.runtimeconfig.json
+C:\Users\Eduardo\Music\AdventumCaez-Api\AdventumCaez-API-DAL\obj\Debug\net8.0\AdventumCaez-API-DAL.sourcelink.json
+C:\Users\Eduardo\Music\AdventumCaez-Api\AdventumCaez-API-DAL\obj\Debug\net8.0\AdventumCaez-API-DAL.genruntimeconfig.cache

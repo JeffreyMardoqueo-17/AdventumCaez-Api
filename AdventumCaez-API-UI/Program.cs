@@ -1,25 +1,24 @@
-using DotNetEnv; // Para cargar el archivo .env
-using AdventumCaez_API_BL; // Para usar AddBusinessLayer()
+using DotNetEnv;
+using AdventumCaez_API_BL;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// Cargar las variables de entorno del archivo .env
-Env.Load();
+Env.Load(); // Cargar variables del archivo .env
 
-// Obtener la cadena de conexión desde el entorno
 var connectionString = Environment.GetEnvironmentVariable("ConnectionStrings__DefaultConnection");
 
-// Usar la capa BL para inyectar todo
-builder.Services.AddBusinessLayer(connectionString);  // Esta línea llama al método de DependencyInjection
+if (string.IsNullOrEmpty(connectionString))
+    throw new InvalidOperationException("La cadena de conexión no está definida en las variables de entorno.");
 
-// Servicios generales de ASP.NET Core
+builder.Services.AddBusinessLayer(connectionString);
+
+
 builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
 var app = builder.Build();
 
-// Middleware HTTP
 if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();

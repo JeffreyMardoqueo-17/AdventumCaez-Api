@@ -9,3 +9,4 @@ C:\Users\Eduardo\Music\AdventumCaez-Api\AdventumCaez-API-EN\obj\Debug\net8.0\Adv
 C:\Users\Eduardo\Music\AdventumCaez-Api\AdventumCaez-API-EN\obj\Debug\net8.0\refint\AdventumCaez-API-EN.dll
 C:\Users\Eduardo\Music\AdventumCaez-Api\AdventumCaez-API-EN\obj\Debug\net8.0\AdventumCaez-API-EN.pdb
 C:\Users\Eduardo\Music\AdventumCaez-Api\AdventumCaez-API-EN\obj\Debug\net8.0\ref\AdventumCaez-API-EN.dll
+C:\Users\Eduardo\Music\AdventumCaez-Api\AdventumCaez-API-EN\obj\Debug\net8.0\AdventumCaez-API-EN.sourcelink.json
